@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Represent!</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <color name="blue">#66d9ff</color>
+
+</resources>
