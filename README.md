@@ -1,20 +1,12 @@
 # PROG 02: Represent!
 
-Briefly describe your app here.
+Skeleton code for basic funtionality of the Represent app. 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Ilakya Palanisamy ([ilakya.palanisamy@berkeley.edu](mailto:ilakya.palanisamy@berkeley.edu))
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+See demo here. (https://vimeo.com/157896295)
 
-## Screenshots
-
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
-
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Any other support
